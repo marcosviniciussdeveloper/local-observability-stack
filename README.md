@@ -1,7 +1,3 @@
-Aqui está um modelo de `README.md` simples, direto e limpo, bem focado no padrão técnico que o mercado gosta de ver em portfólios de DevOps e infraestrutura.
-
-Basta criar um arquivo chamado `README.md` na mesma pasta dos seus arquivos e colar o conteúdo abaixo:
-
 ```markdown
 # Prometheus & Grafana Docker Stack 🚀
 
