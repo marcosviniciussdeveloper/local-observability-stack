@@ -1,0 +1,4 @@
+# Ignorar dados locais do Prometheus e Grafana
+prometheus-data/
+grafana-data/
+.grafana-data/
